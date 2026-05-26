@@ -1,15 +1,16 @@
 {
   "name": "Srow Master",
-  "buildId": "64cd641f92846b6c",
-  "gameVersion": 20,
+  "buildId": "ce2f2cadb48bb26e",
+  "gameVersion": 21,
   "acceptedReplayVersions": [
     15,
     16,
     17,
     18,
     19,
-    20
+    20,
+    21
   ],
   "game": "game.html",
-  "createdAt": "2026-05-26T18:02:37.285Z"
+  "createdAt": "2026-05-26T18:17:30.461Z"
 }
