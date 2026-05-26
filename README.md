@@ -1,4 +1,4 @@
-# Srow Master
+# Throw Master
 
 Pixel-art javelin rhythm runner with Supabase leaderboard and replay support.
 
