@@ -1,6 +1,6 @@
 {
   "name": "Throw Master",
-  "buildId": "07f2dcb520483345",
+  "buildId": "b672109aa768f766",
   "gameVersion": 17,
   "acceptedReplayVersions": [
     15,
@@ -8,5 +8,5 @@
     17
   ],
   "game": "game.html",
-  "createdAt": "2026-05-26T00:50:36.116Z"
+  "createdAt": "2026-05-26T01:05:04.587Z"
 }
