@@ -1,14 +1,15 @@
 {
-  "name": "Throw Master",
-  "buildId": "377665111991709c",
-  "gameVersion": 19,
+  "name": "Srow Master",
+  "buildId": "64cd641f92846b6c",
+  "gameVersion": 20,
   "acceptedReplayVersions": [
     15,
     16,
     17,
     18,
-    19
+    19,
+    20
   ],
   "game": "game.html",
-  "createdAt": "2026-05-26T17:38:40.591Z"
+  "createdAt": "2026-05-26T18:02:37.285Z"
 }
