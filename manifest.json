@@ -1,0 +1,58 @@
+{
+  "platform": "Sport Masters",
+  "version": 1,
+  "createdAt": "2026-05-30T00:58:11.969Z",
+  "hub": {
+    "buildId": "80487d780e7757cd",
+    "file": "hub-80487d780e7757cd.html",
+    "gameVersion": "3"
+  },
+  "games": [
+    {
+      "id": "throw-master",
+      "name": {
+        "ru": "Метание копья",
+        "en": "Javelin Throw"
+      },
+      "tagline": {
+        "ru": "Ритм разбега и точный бросок",
+        "en": "Rhythm run-up and a sharp throw"
+      },
+      "buildId": "022690fb2bf44819",
+      "file": "games/throw-master/game-022690fb2bf44819.html",
+      "manifest": "games/throw-master/game-manifest.json",
+      "available": true,
+      "modes": [
+        {
+          "id": "classic",
+          "name": {
+            "ru": "Классика",
+            "en": "Classic"
+          }
+        }
+      ],
+      "gameVersion": 32,
+      "displayVersion": "3.2",
+      "replayCompatibleVersions": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    }
+  ]
+}

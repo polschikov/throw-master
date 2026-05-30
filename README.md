@@ -1,20 +1,35 @@
-# Throw Master
+# Sport Masters
 
-Pixel-art javelin rhythm runner with Supabase leaderboard and replay support.
+Public GitHub Pages release for the **Sport Masters** pixel-art athletics platform.
 
 ## Deploy
 
-This folder is the clean public GitHub Pages release. Upload the contents of this folder to the repository root:
+Upload the entire contents of this folder to a repository root with GitHub Pages
+enabled. The loader and hub discover each other through `manifest.json`.
 
-- `index.html`
-- `game.html`
-- `game-<buildId>.html`
-- `release.json`
-- `.nojekyll`
-- `README.md`
+```text
+index.html                          root loader (fetches manifest.json, opens hub iframe)
+hub.html                            hub fallback
+hub-<buildId>.html                  cache-busted hub
+manifest.json                       main manifest: hub + games
+games/<game-id>/game.html           per-game fallback
+games/<game-id>/game-<buildId>.html per-game cache-busted build
+games/<game-id>/game-manifest.json  per-game manifest
+.nojekyll
+README.md
+```
 
-`index.html` is a small cache-busting loader. It fetches `release.json` with a fresh query string and then opens the hashed `game-<buildId>.html` file, so normal page refreshes pick up new releases quickly.
+## Games in this build
 
-Source HTML versions, docs, Supabase function code, and tooling should stay outside the public release repository.
+- `throw-master` — Javelin Throw (v32)
 
-The public Supabase URL and publishable key are embedded in `index.html`. Do not add service-role or secret keys to this repository.
+## How it works
+
+1. `index.html` (loader) fetches `manifest.json?t=<nonce>` with `cache: no-store`.
+2. Loader reads `manifest.hub.file` and opens that hub HTML in a full-screen iframe.
+3. Hub renders the game-picker, asks for player name, then opens a game's HTML
+   (from `manifest.games[*].file`) in a nested iframe and communicates via
+   `window.postMessage`. See `Docs/PLATFORM_PLAN.md`.
+
+Source HTML versions, docs, Supabase function code, and tooling stay outside
+the public release repository.
