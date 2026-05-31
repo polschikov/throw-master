@@ -21,7 +21,7 @@ README.md
 
 ## Games in this build
 
-- `throw-master` — Javelin Throw (v32)
+- `throw-master` — Javelin Throw (v31)
 
 ## How it works
 
