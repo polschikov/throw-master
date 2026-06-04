@@ -1,11 +1,11 @@
 {
   "platform": "Sport Masters",
   "version": 1,
-  "createdAt": "2026-06-04T16:36:52.027Z",
+  "createdAt": "2026-06-04T18:42:51.567Z",
   "hub": {
-    "buildId": "1213c16b94fa2152",
-    "file": "hub-1213c16b94fa2152.html",
-    "gameVersion": "5"
+    "buildId": "2d8421d6b4b0987f",
+    "file": "hub-2d8421d6b4b0987f.html",
+    "gameVersion": "6"
   },
   "games": [
     {
