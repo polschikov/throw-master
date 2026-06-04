@@ -1,10 +1,10 @@
 {
   "platform": "Sport Masters",
   "version": 1,
-  "createdAt": "2026-06-04T18:42:51.567Z",
+  "createdAt": "2026-06-04T20:03:43.860Z",
   "hub": {
-    "buildId": "2d8421d6b4b0987f",
-    "file": "hub-2d8421d6b4b0987f.html",
+    "buildId": "5955d45555761d77",
+    "file": "hub-5955d45555761d77.html",
     "gameVersion": "6"
   },
   "games": [
@@ -18,8 +18,8 @@
         "ru": "Ритм разбега и точный бросок",
         "en": "Rhythm run-up and a sharp throw"
       },
-      "buildId": "d63d481392567634",
-      "file": "games/throw-master/game-d63d481392567634.html",
+      "buildId": "b65291ae19550bf6",
+      "file": "games/throw-master/game-b65291ae19550bf6.html",
       "manifest": "games/throw-master/game-manifest.json",
       "available": true,
       "modes": [
