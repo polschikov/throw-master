@@ -1,25 +1,25 @@
 {
   "platform": "Sport Masters",
   "version": 1,
-  "createdAt": "2026-06-05T18:01:17.738Z",
+  "createdAt": "2026-06-05T20:55:31.306Z",
   "hub": {
-    "buildId": "71790eb824803faa",
-    "file": "hub-71790eb824803faa.html",
+    "buildId": "32d6787abfa20849",
+    "file": "hub-32d6787abfa20849.html",
     "gameVersion": "6"
   },
   "games": [
     {
       "id": "sprint-100m",
       "name": {
-        "ru": "Sprint Master",
-        "en": "Sprint Master"
+        "ru": "Бег 100 м (Sprint Master)",
+        "en": "100m Sprint (Sprint Master)"
       },
       "tagline": {
         "ru": "Чистый ритм и максимальная скорость",
         "en": "Pure rhythm, max speed"
       },
-      "buildId": "63fbc065098ff7cb",
-      "file": "games/sprint-100m/game-63fbc065098ff7cb.html",
+      "buildId": "bd72fc3d1be48ecd",
+      "file": "games/sprint-100m/game-bd72fc3d1be48ecd.html",
       "manifest": "games/sprint-100m/game-manifest.json",
       "available": true,
       "modes": [
@@ -40,15 +40,15 @@
     {
       "id": "throw-master",
       "name": {
-        "ru": "Метание копья",
-        "en": "Javelin Throw"
+        "ru": "Метание копья (Throw Master)",
+        "en": "Javelin Throw (Throw Master)"
       },
       "tagline": {
         "ru": "Ритм разбега и точный бросок",
         "en": "Rhythm run-up and a sharp throw"
       },
-      "buildId": "f2ad5a77dca69aa1",
-      "file": "games/throw-master/game-f2ad5a77dca69aa1.html",
+      "buildId": "71eced62f7087b20",
+      "file": "games/throw-master/game-71eced62f7087b20.html",
       "manifest": "games/throw-master/game-manifest.json",
       "available": true,
       "modes": [
