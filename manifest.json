@@ -1,13 +1,42 @@
 {
   "platform": "Sport Masters",
   "version": 1,
-  "createdAt": "2026-06-05T01:04:38.642Z",
+  "createdAt": "2026-06-05T18:01:17.738Z",
   "hub": {
-    "buildId": "5b25e389a69e6f28",
-    "file": "hub-5b25e389a69e6f28.html",
+    "buildId": "71790eb824803faa",
+    "file": "hub-71790eb824803faa.html",
     "gameVersion": "6"
   },
   "games": [
+    {
+      "id": "sprint-100m",
+      "name": {
+        "ru": "Sprint Master",
+        "en": "Sprint Master"
+      },
+      "tagline": {
+        "ru": "Чистый ритм и максимальная скорость",
+        "en": "Pure rhythm, max speed"
+      },
+      "buildId": "63fbc065098ff7cb",
+      "file": "games/sprint-100m/game-63fbc065098ff7cb.html",
+      "manifest": "games/sprint-100m/game-manifest.json",
+      "available": true,
+      "modes": [
+        {
+          "id": "classic",
+          "name": {
+            "ru": "Классика",
+            "en": "Classic"
+          }
+        }
+      ],
+      "gameVersion": 1,
+      "displayVersion": "1.0",
+      "replayCompatibleVersions": [
+        1
+      ]
+    },
     {
       "id": "throw-master",
       "name": {

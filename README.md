@@ -21,6 +21,7 @@ README.md
 
 ## Games in this build
 
+- `sprint-100m` — Sprint Master (v1)
 - `throw-master` — Javelin Throw (v31)
 
 ## How it works
