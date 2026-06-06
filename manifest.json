@@ -1,7 +1,7 @@
 {
   "platform": "Sport Masters",
   "version": 1,
-  "createdAt": "2026-06-06T01:06:58.917Z",
+  "createdAt": "2026-06-06T13:25:04.777Z",
   "hub": {
     "buildId": "8ebe6165534aa3c6",
     "file": "hub-8ebe6165534aa3c6.html",
@@ -18,8 +18,8 @@
         "ru": "Чистый ритм и максимальная скорость",
         "en": "Pure rhythm, max speed"
       },
-      "buildId": "c281ca847f52c513",
-      "file": "games/sprint-100m/game-c281ca847f52c513.html",
+      "buildId": "4a3a335eb7fdcd47",
+      "file": "games/sprint-100m/game-4a3a335eb7fdcd47.html",
       "manifest": "games/sprint-100m/game-manifest.json",
       "available": true,
       "modes": [
@@ -47,8 +47,8 @@
         "ru": "Ритм разбега и точный бросок",
         "en": "Rhythm run-up and a sharp throw"
       },
-      "buildId": "2d86c1cb80877349",
-      "file": "games/throw-master/game-2d86c1cb80877349.html",
+      "buildId": "d5ba5aa4c838ab27",
+      "file": "games/throw-master/game-d5ba5aa4c838ab27.html",
       "manifest": "games/throw-master/game-manifest.json",
       "available": true,
       "modes": [
