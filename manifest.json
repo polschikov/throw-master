@@ -1,7 +1,7 @@
 {
   "platform": "Sport Masters",
   "version": 1,
-  "createdAt": "2026-06-06T13:25:04.777Z",
+  "createdAt": "2026-06-06T20:51:34.454Z",
   "hub": {
     "buildId": "8ebe6165534aa3c6",
     "file": "hub-8ebe6165534aa3c6.html",
@@ -18,8 +18,8 @@
         "ru": "Чистый ритм и максимальная скорость",
         "en": "Pure rhythm, max speed"
       },
-      "buildId": "4a3a335eb7fdcd47",
-      "file": "games/sprint-100m/game-4a3a335eb7fdcd47.html",
+      "buildId": "d7e463f9dee2c0c2",
+      "file": "games/sprint-100m/game-d7e463f9dee2c0c2.html",
       "manifest": "games/sprint-100m/game-manifest.json",
       "available": true,
       "modes": [
