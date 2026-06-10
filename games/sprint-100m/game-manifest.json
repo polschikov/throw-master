@@ -1,15 +1,16 @@
 {
   "id": "sprint-100m",
   "name": "sprint-100m",
-  "gameVersion": 1,
-  "displayVersion": "1.0",
-  "buildId": "d7e463f9dee2c0c2",
-  "file": "game-d7e463f9dee2c0c2.html",
+  "gameVersion": 2,
+  "displayVersion": "2.0",
+  "buildId": "c109348df465bc68",
+  "file": "game-c109348df465bc68.html",
   "replayCompatibleVersions": [
-    1
+    1,
+    2
   ],
   "modes": [
     "classic"
   ],
-  "createdAt": "2026-06-06T20:51:32.780Z"
+  "createdAt": "2026-06-10T00:31:07.239Z"
 }

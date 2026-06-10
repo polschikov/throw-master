@@ -3,8 +3,8 @@
   "name": "throw-master",
   "gameVersion": 31,
   "displayVersion": "3.1",
-  "buildId": "d5ba5aa4c838ab27",
-  "file": "game-d5ba5aa4c838ab27.html",
+  "buildId": "d40abff539ef416e",
+  "file": "game-d40abff539ef416e.html",
   "replayCompatibleVersions": [
     15,
     16,
@@ -27,5 +27,5 @@
   "modes": [
     "classic"
   ],
-  "createdAt": "2026-06-06T13:25:04.775Z"
+  "createdAt": "2026-06-10T00:31:09.084Z"
 }
